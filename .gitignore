@@ -1,3 +1,11 @@
 venv/
 __pycache__/
 .DS_Store
+
+# Static site deployment ignores
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite
+node_modules/
